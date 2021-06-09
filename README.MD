@@ -18,7 +18,7 @@ Netflix Logo is the main image & the play icon is the small image).
 According to my files privided here, the discord RP would look like this -
 
 <img src="https://cdn.discordapp.com/attachments/785838284780601357/852060046002749450/Screenshot_1.png" height="480" width="480">
-<img src="https://cdn.discordapp.com/attachments/785838284780601357/852060047672213514/Screenshot_2.png" height="480" width="480">
+<img src="https://cdn.discordapp.com/attachments/785838284780601357/852060047672213514/Screenshot_2.png" height="300" width="480">
 
 
 I just used the Netflix theme as an example here, you can change it into anything you like! Hope it helps
